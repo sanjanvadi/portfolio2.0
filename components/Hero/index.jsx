@@ -16,7 +16,7 @@ const Hero = () => {
           Sanjan Vadi
         </h1>
         <h2 className="flex pt-5 gap-2 text-xl font-bold text-white sm:text-2xl">
-          I'm a
+          I&apos;m a
           <span className="text-xl font-bold text-teal-500 sm:text-2xl">
           <Typewriter
           options={{
@@ -28,7 +28,7 @@ const Hero = () => {
           </span>
         </h2>
         <p className="text-md text-gray-300 leading-7 my-4 sm:text-lg sm:leading-8">
-          A Software Developer with Master's in Computer Sciecne from Stevens Institute of Technology specializing in Full-stack Development and Cloud Development.
+          A Software Developer with Master&apos;s in Computer Sciecne from Stevens Institute of Technology specializing in Full-stack Development and Cloud Development.
         </p>
         <div className="my-7 flex justify-start items-center gap-4 flex-wrap">
           <button className="bg-teal-500 py-2 px-4 font-bold text-white border-2 border-teal-500 rounded-md ease-in-out duration-150 hover:text-white hover:bg-transparent hover:border-white" title="View Resume">
