@@ -21,7 +21,7 @@ const Navbar = () => {
             <div className="z-50">
                 <h2 className="text-2xl text-white font-bold ml-3">
                     <Link href="/" title="SV">
-                        <img src='https://res.cloudinary.com/dzlf4ut72/image/upload/v1709257134/portfolio/xkz9njjtidd8je6e3tgi.png' alt='SV' style={{width:'80px',height:'70px'}}/>
+                        <img src='https://res.cloudinary.com/dzlf4ut72/image/upload/v1709257134/portfolio/xkz9njjtidd8je6e3tgi.png' alt='SV' className="md:w-20 md:h-16 w-14 h-12"/>
                     </Link>
                 </h2>
             </div>
