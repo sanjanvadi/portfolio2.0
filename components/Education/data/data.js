@@ -8,7 +8,7 @@ const data = [
     },
     {
         id: 2,
-        year: "Aug 2016 - Oct 202",
+        year: "Aug 2016 - Oct 2020",
         job_title: "B.E, Information Science & Engineering",
         company: "Basaveshwar Engineering College",
         description: "Coursework : Operating Systems, Discrete Mathematics, Data Structures, Algorithms, Database Management Systems"
